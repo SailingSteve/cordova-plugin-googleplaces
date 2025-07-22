@@ -2,7 +2,7 @@
   "name": "cordova-plugin-googleplaces",
   "version": "0.0.5",
   "description": "A Cordova plugin to access the native Google Places SDK",
-  "repository": "https://github.com/ushu/cordova-plugin-googleplaces",
+  "repository": "https://github.com/wevote/cordova-plugin-googleplaces",
   "author": "Aurélien Noce <aurnoce@gmail.com> (https://github.com/ushu)",
   "license": "MIT",
   "scripts": {
